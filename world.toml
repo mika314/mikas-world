@@ -1,0 +1,35 @@
+# north ^ y
+#       |
+# west  |    east
+#-------+--------> x
+#       |
+# south |
+#
+[[room]]
+pos="0,1,0"
+description="the room"
+north="you have mirror"
+west="a PC with two screens"
+south="a couch"
+exits="ns"
+[[room]]
+description="the corridor"
+north="""a sign
+"Mika's Favorite Avatars
+Mika did not make them"
+"""
+exits="nes"
+[[room]]
+pos="1,1,0"
+description="the corridor"
+north="""a sign "Pictures"
+"""
+exits="nw"
+[[room]]
+pos="0,2,0"
+description="avatar room"
+exits="s"
+[[room]]
+pos="1,2,0"
+description="room with pictures"
+exits="s"
