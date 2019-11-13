@@ -16,15 +16,13 @@ exits="ns"
 pos="0,1,0"
 description="the corridor"
 north="""a sign
-"Mika's Favorite Avatars
-Mika did not make them"
-"""
+'Mika's Favorite Avatars
+Mika did not make them'"""
 exits="nes"
 [[room]]
 pos="1,1,0"
 description="the corridor"
-north="""a sign "Pictures"
-"""
+north="""a sign 'Pictures'"""
 exits="nw"
 [[room]]
 pos="0,2,0"
