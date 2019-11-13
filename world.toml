@@ -34,7 +34,7 @@ description="room with pictures"
 exits="s"
 [[room]]
 pos="0,-1,0"
-description="next to the door"
+description="the corridor next to the door"
 east="button and door"
 exits="ne"
 [[room]]
