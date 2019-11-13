@@ -32,3 +32,13 @@ exits="s"
 pos="1,2,0"
 description="room with pictures"
 exits="s"
+[[room]]
+pos="0,-1,0"
+description="next to the door"
+east="button and door"
+exits="ne"
+[[room]]
+pos="1,-1,0"
+description="trail"
+west="button and door"
+exits="w"
