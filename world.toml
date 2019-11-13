@@ -39,6 +39,6 @@ east="button and door"
 exits="ne"
 [[room]]
 pos="1,-1,0"
-description="trail"
+description="the trail"
 west="button and door"
 exits="w"
