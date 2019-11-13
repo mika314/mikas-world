@@ -8,7 +8,7 @@
 [[room]]
 pos="0,0,0"
 description="the room"
-north="you have mirror"
+north="you have a mirror"
 west="a PC with two screens"
 south="a couch"
 exits="ns"
