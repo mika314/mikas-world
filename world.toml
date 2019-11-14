@@ -9,8 +9,8 @@
 pos="0,0,0"
 description="the room"
 north="you have a mirror"
-west="a PC with two screens"
-south="a couch"
+west="a PC with two screens :desktop: :desktop:"
+south="a couch :couch:"
 exits="ns"
 [[room]]
 pos="0,1,0"
@@ -29,12 +29,12 @@ description="the avatar room"
 exits="s"
 [[room]]
 pos="1,2,0"
-description="the room with pictures"
+description="the room with pictures :frame_photo: :frame_photo: :frame_photo: :frame_photo: :frame_photo: :frame_photo: "
 exits="s"
 [[room]]
 pos="0,-1,0"
-description="the corridor next to the door"
-east="button and door"
+description="the place next to the door"
+east="button :black_square_button: and the door"
 exits="ne"
 [[room]]
 pos="1,-1,0"
