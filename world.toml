@@ -7,7 +7,7 @@
 #
 [[room]]
 pos="0,0,0"
-description="the room"
+description="the room blabla"
 north="you have a mirror"
 west="a PC with two screens :desktop: :desktop:"
 south="a couch :couch:"
