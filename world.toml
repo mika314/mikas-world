@@ -29,7 +29,11 @@ description="the avatar room"
 exits="s"
 [[room]]
 pos="1,2,0"
-description="the room with pictures :frame_photo: :frame_photo: :frame_photo: :frame_photo: :frame_photo: :frame_photo: "
+description="the room with pictures"
+north=":frame_photo: :frame_photo: :frame_photo: :frame_photo: :frame_photo: :frame_photo:"
+east=":frame_photo: :frame_photo: :frame_photo: :frame_photo: :frame_photo: :frame_photo:"
+south=":frame_photo: :frame_photo: :frame_photo: :frame_photo: :frame_photo: :frame_photo:"
+west=":frame_photo: :frame_photo: :frame_photo: :frame_photo: :frame_photo: :frame_photo:"
 exits="s"
 [[room]]
 pos="0,-1,0"
