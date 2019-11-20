@@ -38,8 +38,8 @@ exits="s"
 [[room]]
 pos="0,-1,0"
 description="the place next to the door"
-items=[{class="door button", name="button", direction="east"}]
-east="button :black_square_button: and the door"
+items=[{class="door button", name="button :black_square_button:", direction="east"}]
+east="the door"
 exits="ne"
 [[room]]
 pos="1,-1,0"
